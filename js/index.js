@@ -160,7 +160,7 @@ PomodoroClock = function (_React$Component) {_inherits(PomodoroClock, _React$Com
 
 
         React.createElement('audio', { id: 'beep', src: 'https://www.soundjay.com/clock/sounds/alarm-clock-01.mp3' }),
-        React.createElement('div', { id: 'credits' });
+        React.createElement('div', { id: 'credits' }, '', React.createElement('br', null), React.createElement('a', null)));
 
     } }]);return PomodoroClock;}(React.Component);
 
